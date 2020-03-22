@@ -49,5 +49,19 @@ public class Pais {
 		this.area = area;
 	}
 	
+	public String paisComMaisHabitantes() {
+		return "pais";
+	}
 	
+	public String paisComMenorArea() {
+		return "pais";
+	}
+	
+	/*
+	public String vetorDePaises() {
+		String paises[] = {"Canada", "Canada", "Canada"}
+ 		
+		return paises;
+	}
+	*/
 }
